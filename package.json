@@ -1,0 +1,16 @@
+{
+  "name": "mongo_ref",
+  "version": "1.0.0",
+  "description": "understanding mongoose and revision",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "nodemon script.js"
+  },
+  "author": "cheran kumar",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.15"
+  }
+}
